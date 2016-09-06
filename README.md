@@ -2,7 +2,7 @@
 My current Sublime Text 3 configuration
 
 ## Settings
-Install the required packages, then copy/paste this into `Preferences -> Settings - User`.
+All you need to do is install all of the bloody packages in the config, then copy/paste this into `Preferences -> Settings - User`.
 ```
 {
 	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
