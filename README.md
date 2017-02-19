@@ -21,6 +21,3 @@ All you need to do is install all of the bloody packages in the config, then cop
 
 ## Packages
 * Brogrammer Theme [By @kenwheeler](https://github.com/kenwheeler/brogrammer-theme)
-
-## Is that it?
-> Yes, it's bloody simple, mate.
